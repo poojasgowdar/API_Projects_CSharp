@@ -1,0 +1,57 @@
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\bin\Debug\net8.0\Interface.deps.json
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\bin\Debug\net8.0\Interface.runtimeconfig.json
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\bin\Debug\net8.0\Interface.dll
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\bin\Debug\net8.0\Interface.pdb
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\bin\Debug\net8.0\Dtos.dll
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\bin\Debug\net8.0\Entities.dll
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\bin\Debug\net8.0\Dtos.pdb
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\bin\Debug\net8.0\Entities.pdb
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\obj\Debug\net8.0\Interface.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\obj\Debug\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\obj\Debug\net8.0\Interface.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\obj\Debug\net8.0\Interface.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\obj\Debug\net8.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\obj\Debug\net8.0\Interface.csproj.Up2Date
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\obj\Debug\net8.0\Interface.dll
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\obj\Debug\net8.0\refint\Interface.dll
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\obj\Debug\net8.0\Interface.pdb
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
+C:\Users\Pooja S\source\repos\CustomerAPI\Interface\obj\Debug\net8.0\ref\Interface.dll
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\bin\Debug\net8.0\Interface.deps.json
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\bin\Debug\net8.0\Interface.runtimeconfig.json
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\bin\Debug\net8.0\Interface.dll
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\bin\Debug\net8.0\Interface.pdb
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\bin\Debug\net8.0\Dtos.dll
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\bin\Debug\net8.0\Entities.dll
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\bin\Debug\net8.0\Dtos.pdb
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\bin\Debug\net8.0\Entities.pdb
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\Interface.csproj.AssemblyReference.cache
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\Interface.AssemblyInfoInputs.cache
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\Interface.AssemblyInfo.cs
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\Interface.csproj.Up2Date
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\Interface.dll
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\refint\Interface.dll
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\Interface.pdb
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\ref\Interface.dll
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\bin\Debug\net8.0\Interface.deps.json
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\bin\Debug\net8.0\Interface.runtimeconfig.json
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\bin\Debug\net8.0\Interface.dll
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\bin\Debug\net8.0\Interface.pdb
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\bin\Debug\net8.0\Dtos.dll
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\bin\Debug\net8.0\Entities.dll
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\bin\Debug\net8.0\Dtos.pdb
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\bin\Debug\net8.0\Entities.pdb
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\Interface.csproj.AssemblyReference.cache
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\Interface.AssemblyInfoInputs.cache
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\Interface.AssemblyInfo.cs
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\Interface.csproj.Up2Date
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\Interface.dll
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\refint\Interface.dll
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\Interface.pdb
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Interface\obj\Debug\net8.0\ref\Interface.dll

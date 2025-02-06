@@ -1,0 +1,63 @@
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\bin\Debug\net8.0\Dtos.dll
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\bin\Debug\net8.0\Entities.dll
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\bin\Debug\net8.0\Interface.dll
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\bin\Debug\net8.0\Interface.pdb
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\bin\Debug\net8.0\Dtos.pdb
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\bin\Debug\net8.0\Entities.pdb
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+C:\Users\Pooja S\source\repos\CustomerAPI\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Dtos.dll
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Entities.dll
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Interface.dll
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Interface.pdb
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Dtos.pdb
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Entities.pdb
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Dtos.dll
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Entities.dll
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Interface.dll
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Interface.pdb
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Dtos.pdb
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\bin\Debug\net8.0\Entities.pdb
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Repositories\obj\Debug\net8.0\ref\Repositories.dll

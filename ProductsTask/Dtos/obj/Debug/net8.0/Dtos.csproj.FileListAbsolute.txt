@@ -1,0 +1,14 @@
+C:\Users\Pooja S\source\repos\ProductsTask\Dtos\bin\Debug\net8.0\Dtos.deps.json
+C:\Users\Pooja S\source\repos\ProductsTask\Dtos\bin\Debug\net8.0\Dtos.runtimeconfig.json
+C:\Users\Pooja S\source\repos\ProductsTask\Dtos\bin\Debug\net8.0\Dtos.dll
+C:\Users\Pooja S\source\repos\ProductsTask\Dtos\bin\Debug\net8.0\Dtos.pdb
+C:\Users\Pooja S\source\repos\ProductsTask\Dtos\obj\Debug\net8.0\Dtos.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\ProductsTask\Dtos\obj\Debug\net8.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\ProductsTask\Dtos\obj\Debug\net8.0\Dtos.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\ProductsTask\Dtos\obj\Debug\net8.0\Dtos.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\ProductsTask\Dtos\obj\Debug\net8.0\Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\ProductsTask\Dtos\obj\Debug\net8.0\Dtos.dll
+C:\Users\Pooja S\source\repos\ProductsTask\Dtos\obj\Debug\net8.0\refint\Dtos.dll
+C:\Users\Pooja S\source\repos\ProductsTask\Dtos\obj\Debug\net8.0\Dtos.pdb
+C:\Users\Pooja S\source\repos\ProductsTask\Dtos\obj\Debug\net8.0\Dtos.genruntimeconfig.cache
+C:\Users\Pooja S\source\repos\ProductsTask\Dtos\obj\Debug\net8.0\ref\Dtos.dll

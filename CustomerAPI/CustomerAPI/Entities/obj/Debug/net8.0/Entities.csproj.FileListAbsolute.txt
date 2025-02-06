@@ -1,0 +1,42 @@
+C:\Users\Pooja S\source\repos\CustomerAPI\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\Pooja S\source\repos\CustomerAPI\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+C:\Users\Pooja S\source\repos\CustomerAPI\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\Pooja S\source\repos\CustomerAPI\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\Pooja S\source\repos\CustomerAPI\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\CustomerAPI\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\CustomerAPI\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\CustomerAPI\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\CustomerAPI\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\CustomerAPI\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\Pooja S\source\repos\CustomerAPI\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\Pooja S\source\repos\CustomerAPI\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\Pooja S\source\repos\CustomerAPI\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+C:\Users\Pooja S\source\repos\CustomerAPI\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+C:\Users\Pooja S\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+C:\Users\Pooja S\OneDrive - Giridhara Software Services Pvt Ltd\Desktop\API_Projects\CustomerAPI\CustomerAPI\Entities\obj\Debug\net8.0\ref\Entities.dll

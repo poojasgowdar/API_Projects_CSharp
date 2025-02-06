@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SessionTracking_Controller.props" />
+</Project>

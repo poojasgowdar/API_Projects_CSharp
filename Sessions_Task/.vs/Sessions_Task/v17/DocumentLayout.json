@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\api_projects\\sessions_task\\sessiontracking_controller\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|solutionrelative:sessiontracking_controller\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\api_projects\\sessions_task\\sessiontracking_controller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|solutionrelative:sessiontracking_controller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\api_projects\\sessions_task\\sessiontracking_controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|solutionrelative:sessiontracking_controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E867C0D-9CAD-4B34-A210-5258BF50E7E5}|Services\\Services.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\api_projects\\sessions_task\\services\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E867C0D-9CAD-4B34-A210-5258BF50E7E5}|Services\\Services.csproj|solutionrelative:services\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480A1EC5-2085-46AF-8621-81B5F09F6D38}|Models\\Models.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\api_projects\\sessions_task\\models\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480A1EC5-2085-46AF-8621-81B5F09F6D38}|Models\\Models.csproj|solutionrelative:models\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1444981-2EC5-4943-AE1D-C62064099E9F}|Repositories\\Repositories.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\api_projects\\sessions_task\\repositories\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1444981-2EC5-4943-AE1D-C62064099E9F}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD38B42-5A5D-4FF7-96E7-00FAA489A660}|Dtos\\Dtos.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\api_projects\\sessions_task\\dtos\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD38B42-5A5D-4FF7-96E7-00FAA489A660}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD38B42-5A5D-4FF7-96E7-00FAA489A660}|Dtos\\Dtos.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\api_projects\\sessions_task\\dtos\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD38B42-5A5D-4FF7-96E7-00FAA489A660}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DDEF21-F392-4DDC-B278-466A9CD630A6}|Interfaces\\Interfaces.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\api_projects\\sessions_task\\interfaces\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46DDEF21-F392-4DDC-B278-466A9CD630A6}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DDEF21-F392-4DDC-B278-466A9CD630A6}|Interfaces\\Interfaces.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\api_projects\\sessions_task\\interfaces\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46DDEF21-F392-4DDC-B278-466A9CD630A6}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD38B42-5A5D-4FF7-96E7-00FAA489A660}|Dtos\\Dtos.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\api_projects\\sessions_task\\dtos\\dto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD38B42-5A5D-4FF7-96E7-00FAA489A660}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480A1EC5-2085-46AF-8621-81B5F09F6D38}|Models\\Models.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\api_projects\\sessions_task\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480A1EC5-2085-46AF-8621-81B5F09F6D38}|Models\\Models.csproj|solutionrelative:models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480A1EC5-2085-46AF-8621-81B5F09F6D38}|Models\\Models.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\api_projects\\sessions_task\\models\\migrations\\20250121121037_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480A1EC5-2085-46AF-8621-81B5F09F6D38}|Models\\Models.csproj|solutionrelative:models\\migrations\\20250121121037_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\SessionTracking_Controller\\appsettings.json",
+              "RelativeDocumentMoniker": "SessionTracking_Controller\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\SessionTracking_Controller\\appsettings.json",
+              "RelativeToolTip": "SessionTracking_Controller\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T12:06:40.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Models\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Models\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\Entities\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:31:10.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Services\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Services\\Service\\ProductService.cs",
+              "RelativeToolTip": "Services\\Service\\ProductService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:30:52.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Repositories\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Repositories\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:33:41.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\SessionTracking_Controller\\Program.cs",
+              "RelativeDocumentMoniker": "SessionTracking_Controller\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\SessionTracking_Controller\\Program.cs",
+              "RelativeToolTip": "SessionTracking_Controller\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:07:31.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SessionController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\SessionTracking_Controller\\Controllers\\SessionController.cs",
+              "RelativeDocumentMoniker": "SessionTracking_Controller\\Controllers\\SessionController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\SessionTracking_Controller\\Controllers\\SessionController.cs",
+              "RelativeToolTip": "SessionTracking_Controller\\Controllers\\SessionController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwGUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:36:02.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Dtos\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Dtos\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "Dtos\\Dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:32:33.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Dtos\\Dto\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Dto\\ProductUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Dtos\\Dto\\ProductUpdateDto.cs",
+              "RelativeToolTip": "Dtos\\Dto\\ProductUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:32:17.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Dtos\\Dto\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Dto\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Dtos\\Dto\\ProductCreateDto.cs",
+              "RelativeToolTip": "Dtos\\Dto\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:31:58.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Interfaces\\Interface\\IService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Interface\\IService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Interfaces\\Interface\\IService.cs",
+              "RelativeToolTip": "Interfaces\\Interface\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:34:59.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Interfaces\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Interfaces\\Interface\\IRepository.cs",
+              "RelativeToolTip": "Interfaces\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:34:38.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250121121037_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Models\\Migrations\\20250121121037_Initial.cs",
+              "RelativeDocumentMoniker": "Models\\Migrations\\20250121121037_Initial.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Models\\Migrations\\20250121121037_Initial.cs",
+              "RelativeToolTip": "Models\\Migrations\\20250121121037_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:10:37.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\API_Projects\\Sessions_Task\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "Models\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:29:49.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
